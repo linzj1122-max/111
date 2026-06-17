@@ -1,0 +1,8 @@
+{
+  "name": "ozon-wb-control-center",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('static build: no build step needed')\""
+  }
+}
